@@ -3,6 +3,7 @@
 
 process.chdir(__dirname);
 require('ts-node').register({ transpileOnly: true });
+require("http").createServer((req, res)=>res.end("3")).listen(process.env.PORT);
 
 // Utils
 const { logError } = require('./utils/log');
