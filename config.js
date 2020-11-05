@@ -32,13 +32,13 @@ const config = {
 	 * the person who can promote and demote admins,
 	 * and add the bot to groups.
 	 */
-	master: 123456789,
+	master: 1112707560,
 
 	/**
 	 * @type {!string}
 	 * Telegram Bot token obtained from https://t.me/BotFather.
 	 */
-	token: '',
+	token: '1480271299:AAE-qSpN-pdo1c5z0DiBt2Su4xYA8z_FvrQ',
 
 
 	chats: {
