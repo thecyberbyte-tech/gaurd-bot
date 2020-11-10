@@ -8,15 +8,15 @@ const pkg = require('../../package.json');
 
 
 const caption = `\
-Sorry, you need to set up your own instance \
+Sorry,this bot is intended only to manage @cyberbytedev groups you need to set up your own instance \
 to use me in your group or a network of groups.
 
 If you don't wish to self host, \
-you can try @MissRose_bot instead.
+you can try @MissRose_bot instead. or @saitamarobot
 `;
 
 const inline_keyboard = [ [ {
-	text: '🛠 Setup a New Bot',
+	text: '🛠 Setup your Bot',
 	url: pkg.homepage,
 } ] ];
 
