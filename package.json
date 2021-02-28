@@ -31,7 +31,7 @@
   "bugs": {
     "url": "https://github.com/TheDevs-Network/the-guard-bot/issues"
   },
-  "homepage": "https://github.com/thecyberbyte-tech/gaurd-bot/",
+  "homepage": "https://github.com/TheDevs-Network/the-guard-bot/",
   "dependencies": {
     "dedent-js": "^1.0.1",
     "jspack": "0.0.4",
